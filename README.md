@@ -11,4 +11,4 @@ RAINdrp is a simple program written in python that simulates rain.
 
 ### Controls
 
-- "q" to exit the program or simply closing the window
+- To exit the program press "q" or close the window.
