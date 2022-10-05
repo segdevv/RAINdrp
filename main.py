@@ -3,6 +3,7 @@ __author__ = "segdevv"
 
 import random
 import pygame
+import sys
 
 
 # Settings
@@ -42,7 +43,7 @@ class RainDrop:
 
 def die():
     pygame.quit()
-    exit()
+    sys.exit(0)
 
 
 def main():
